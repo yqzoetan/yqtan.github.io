@@ -17,9 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 #announcements:
-#  enabled: true # includes a list of news items
-#  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-#  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
 
 #latest_posts:
 #  enabled: true
@@ -27,10 +27,4 @@ social: true # includes social icons at the bottom of the page
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm **Yuanqiu (Zoe) Tan**, a Ph.D. student in **Electrical and Computer Engineering at Purdue University**, advised by **Prof. Zhihong Chen**.
 
-My research focuses on **transistor and spintronic devices** that aim to advance **computation beyond silicon and conventional CMOS technologies**. I am particularly interested in how novel materials and device architectures can enable **energy-efficient and probabilistic computing**.
-
-Outside of research, I enjoy **dancing**, taking care of **plants and animals**, and discovering new **coffee and tea** experiences.
-
-Feel free to reach out — I always enjoy connecting with people who share similar interests!
